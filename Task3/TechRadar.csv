@@ -1,0 +1,10 @@
+name,ring,quadrant,isNew,status,description
+MSSQL Server 2008,Hold,Platforms,FALSE,no change,DWH
+ClickHouse,Adopt,Platforms,TRUE,new,DB
+Postgresql,Adopt,Platforms,TRUE,new,DB
+DataHub,Adopt,Platforms,TRUE,new,
+Power BI,Adopt,Tools,FALSE,new,BI
+Yandex DataLens,Trial,Tools,TRUE,new,
+Apache NiFi,Adopt,Tools,TRUE,new,
+Python,Adopt,languages-and-frameworks,TRUE,new,
+Java,Adopt,languages-and-frameworks,TRUE,new,
