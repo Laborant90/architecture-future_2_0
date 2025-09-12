@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Страница — 1" id="eOpeXwM10tEzvUdo93pS">
-    <mxGraphModel>
+    <mxGraphModel dx="3230" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-18" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="790" width="3320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-30" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="3320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-29" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1000" width="3320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-1" value="Q1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-2" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="230" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-3" value="Q3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="230" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-4" value="Q4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="230" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-6" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="3320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-7" value="Разработка МИС на микросервисной архитектуре" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="2430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-8" value="Миграция данных в новые БД (отдельные БД для медицинских и финансовых данных)" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="488" y="500" width="1580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-9" value="Запуск МИС на микросервисной архитектуре" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="330" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-10" value="Настройка DataLake для ИИ-сервисов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="620" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-11" value="Переключение ИИ-сервисов на DataLake" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="820" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-12" value="Вывод MSSQL Server 2008 из эксплуатации" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="490" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-13" value="Настройка DWH для медицинских сервисов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="680" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-14" value="Настройка DWH для финансовых сервисов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="560" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-15" value="Команда ML" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="790" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-16" value="Команда разработки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-17" value="DBA &amp;amp; Infra команда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-19" value="Настройка ETL для финансовых сервисов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="560" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-20" value="Настройка ETL для ИИ сервисов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="620" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-21" value="Настройка ETL для медицинских сервисов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="680" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-22" value="Переключение PowerBI на ClickHouse" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="560" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-23" value="Настройка портала самообслуживания" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="500" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-24" value="Команда аналитики данных" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="980" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-25" value="Настройка отчётов PowerBI на ClickHouse" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1000" width="2410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-26" value="Настройка портала самообслуживания" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1060" width="2410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-27" value="Настройка DataHub" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1119" width="2410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4sKlb2LKaV_KqJoeUG7E-28" value="Запуск портала самообслуживания" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="630" width="760" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
